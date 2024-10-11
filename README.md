@@ -20,7 +20,7 @@
 ---
 
 - 🔭 I work on Upwork.com and I have developed many websites for several years**.
-- 🌱 I have abundent **Fullstack Development**.
+- 🌱 I have abundent experienced in **Fullstack Development**.
 - 💬 Ask me about HTML/Javascript/Css, Reat/NextJS, VueJS/NuxtJS etc.
 - 🔭 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **New Technology & Innovation**.
