@@ -83,9 +83,6 @@
   <a href="https://github-readme-stats.vercel.app/api?username=RutikKulkarni&theme=blueberry&count_private=true&hide_border=true&line_height=20">
     <img src="https://github-readme-stats.vercel.app/api?username=RutikKulkarni&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github stats" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RutikKulkarni&layout=compact&theme=blueberry&count_private=true&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutikKulkarni&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Langs" />
-  </a>
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=RutikKulkarni">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RutikKulkarni&theme=blueberry&hide_border=true" alt="GitHub Streak" />
   </a>
